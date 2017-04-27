@@ -1,0 +1,6 @@
+C:\Users\Aida\Documents\EndTerm\Car\Car1\bin\Debug\WindowsFormsApplication7.exe.config
+C:\Users\Aida\Documents\EndTerm\Car\Car1\obj\Debug\WindowsFormsApplication7.exe
+C:\Users\Aida\Documents\EndTerm\Car\Car1\obj\Debug\WindowsFormsApplication7.pdb
+C:\Users\Aida\Documents\EndTerm\Car\Car1\obj\Debug\Car.Form1.resources
+C:\Users\Aida\Documents\EndTerm\Car\Car1\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+C:\Users\Aida\Documents\EndTerm\Car\Car1\obj\Debug\Car.csproj.GenerateResource.Cache

@@ -1,0 +1,7 @@
+C:\Users\Aida\Documents\EndTerm\Car\Car\bin\Debug\Car.exe
+C:\Users\Aida\Documents\EndTerm\Car\Car\bin\Debug\Car.pdb
+C:\Users\Aida\Documents\EndTerm\Car\Car\obj\x86\Debug\Car.Form1.resources
+C:\Users\Aida\Documents\EndTerm\Car\Car\obj\x86\Debug\Car.Properties.Resources.resources
+C:\Users\Aida\Documents\EndTerm\Car\Car\obj\x86\Debug\Car.csproj.GenerateResource.Cache
+C:\Users\Aida\Documents\EndTerm\Car\Car\obj\x86\Debug\Car.exe
+C:\Users\Aida\Documents\EndTerm\Car\Car\obj\x86\Debug\Car.pdb

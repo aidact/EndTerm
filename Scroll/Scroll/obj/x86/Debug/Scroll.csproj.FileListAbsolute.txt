@@ -1,0 +1,7 @@
+C:\Users\Aida\Documents\EndTerm\Scroll\Scroll\obj\x86\Debug\Scroll.Form1.resources
+C:\Users\Aida\Documents\EndTerm\Scroll\Scroll\obj\x86\Debug\Scroll.Properties.Resources.resources
+C:\Users\Aida\Documents\EndTerm\Scroll\Scroll\obj\x86\Debug\Scroll.csproj.GenerateResource.Cache
+C:\Users\Aida\Documents\EndTerm\Scroll\Scroll\bin\Debug\Scroll.exe
+C:\Users\Aida\Documents\EndTerm\Scroll\Scroll\bin\Debug\Scroll.pdb
+C:\Users\Aida\Documents\EndTerm\Scroll\Scroll\obj\x86\Debug\Scroll.exe
+C:\Users\Aida\Documents\EndTerm\Scroll\Scroll\obj\x86\Debug\Scroll.pdb

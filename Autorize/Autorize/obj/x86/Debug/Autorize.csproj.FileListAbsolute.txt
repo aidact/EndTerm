@@ -1,0 +1,8 @@
+C:\Users\Aida\Documents\EndTerm\Autorize\Autorize\bin\Debug\Autorize.exe
+C:\Users\Aida\Documents\EndTerm\Autorize\Autorize\bin\Debug\Autorize.pdb
+C:\Users\Aida\Documents\EndTerm\Autorize\Autorize\obj\x86\Debug\Autorize.Form1.resources
+C:\Users\Aida\Documents\EndTerm\Autorize\Autorize\obj\x86\Debug\Autorize.Properties.Resources.resources
+C:\Users\Aida\Documents\EndTerm\Autorize\Autorize\obj\x86\Debug\Autorize.csproj.GenerateResource.Cache
+C:\Users\Aida\Documents\EndTerm\Autorize\Autorize\obj\x86\Debug\Autorize.exe
+C:\Users\Aida\Documents\EndTerm\Autorize\Autorize\obj\x86\Debug\Autorize.pdb
+C:\Users\Aida\Documents\EndTerm\Autorize\Autorize\obj\x86\Debug\Autorize.csprojResolveAssemblyReference.cache
